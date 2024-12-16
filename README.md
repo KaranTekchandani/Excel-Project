@@ -1,8 +1,7 @@
 # Excel-Project
 This project involves analyzing e-commerce sales data for a coffee business using Microsoft Excel. The aim is to uncover insights about sales trends, customer behavior, and product performance to aid in strategic decision-making.
 
-![Uploading Project screenshot.gif…]()
-
+![Project screenshot](https://github.com/user-attachments/assets/d8e92142-57fa-4252-8dc0-c4e2e117a241)
 
 ## Features 
 
